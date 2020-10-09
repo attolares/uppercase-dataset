@@ -1,0 +1,9 @@
+1 - gerar dataset (uppercase only)
+2- python txt2pdf.py -f times.ttf -o data2t.pdf dataset2.txt
+
+dataset2 27 paginas
+dataset3 1067 paginas
+dataset4 42667
+
+3- pdf2png desktop program
+(arquivos maiores que 9999 paginas precisam ser divididos https://www.ilovepdf.com/pt/dividir_pdf )
